@@ -1,0 +1,10 @@
+site_name: AIRA Data Platform
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - toc.integrate
+copyright: © Copyright 2025 Luxembourg Institute of Science & Technology - LIST
